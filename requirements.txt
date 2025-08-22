@@ -1,0 +1,6 @@
+ultralytics 
+roboflow
+supervision
+cv2
+pillow
+pyzbar
